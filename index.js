@@ -15,7 +15,8 @@ function hasTargetSum(array, target) {
 
 /* 
   Write the Big O time complexity of your function here
-  - O(n^2)
+  - O(n^2) for time complexity Since our inner loop performs n iterations for every iteration of the outer loop,
+  - O(n) linear space complexity, memory grows linearly with size of input
 */
 
 /* 
